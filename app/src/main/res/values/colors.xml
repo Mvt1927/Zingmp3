@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#3F51B5</color>
+    <color name="background">#D3000000</color>
+    <color name="invisible">#01000000</color>
+    <color name="Filter">#80202020</color>
+    <color name="red">#F44336</color>
+
+    <color name="Primary">#0d6efd</color>
+    <color name="PrimaryVariant">#0a58ca</color>
+    <color name="OnPrimary">@color/Primary</color>
+    <!--    <color name="OnPrimary">#fff</color>-->
+
+    <color name="Secondary">#6c757d</color>
+    <color name="SecondaryVariant">#565e64</color>
+    <color name="onSecondary">@color/Secondary</color>
+    <!--    <color name="onSecondary">#fff</color>-->
+
+    <color name="Success">#FF198754</color>
+    <color name="SuccessVariant">#146C43</color>
+    <color name="onSuccess">@color/Success</color>
+    <color name="TextSuccess">#FFFFFFFF</color>
+
+    <color name="Danger">#FFDC3545</color>
+    <color name="DangerVariant">#FFB02A37</color>
+    <color name="onDanger">@color/Danger</color>
+    <color name="TextDanger">#FFFFFFFF</color>
+
+    <color name="Warning">#ffc107</color>
+    <color name="WarningVariant">#ffcd39</color>
+    <color name="onWarning">@color/Warning</color>
+    <color name="TextWarning">#000</color>
+
+    <color name="Info">#FF0DCAF0</color>
+    <color name="InfoVariant">#FF3DD5F3</color>
+    <color name="onInfo">@color/Info</color>
+    <color name="TextInfo">#FFFFFFFF</color>
+
+    <color name="Light">#f8f9fa</color>
+    <color name="LightVariant">#f9fafb</color>
+    <color name="onLight">@color/Light</color>
+    <!--    <color name="onLight">#000</color>-->
+
+    <color name="Dark">#212529</color>
+    <color name="DarkVariant">#1a1e21</color>
+    <color name="onDark">@color/Dark</color>
+    <!--    <color name="onDark">#fff</color>-->
+</resources>
